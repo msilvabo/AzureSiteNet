@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\moises.silva\\Documents\\platzi\\azure\\PlatziWebSite\\PlatziWebSite.csproj",
+      "projectUniqueName": "C:\\Users\\moises.silva\\Documents\\platzi\\azure\\AzureSiteNet\\PlatziWebSite.csproj",
       "projectName": "PlatziWebSite",
-      "projectPath": "C:\\Users\\moises.silva\\Documents\\platzi\\azure\\PlatziWebSite\\PlatziWebSite.csproj",
+      "projectPath": "C:\\Users\\moises.silva\\Documents\\platzi\\azure\\AzureSiteNet\\PlatziWebSite.csproj",
       "packagesPath": "C:\\Users\\moises.silva\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\moises.silva\\Documents\\platzi\\azure\\PlatziWebSite\\obj\\",
+      "outputPath": "C:\\Users\\moises.silva\\Documents\\platzi\\azure\\AzureSiteNet\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\moises.silva\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EoFecA5IMyowxmvXfC4vq1Cg5bzx29PRePOKelX9qDZWoj8dyMy+M6J0V6plgX+QSN6YVifchJGhsQScLAyHRQ==",
+  "dgSpecHash": "S/vUtUtgiRyenuSWpoUPaaNEq0wJAWQcyIETovliqQ0cBIoqKoqIKRSfZNS/OhzTMVCP8l1MOPD1dKCqs4BKOw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\moises.silva\\Documents\\platzi\\azure\\PlatziWebSite\\PlatziWebSite.csproj",
+  "projectFilePath": "C:\\Users\\moises.silva\\Documents\\platzi\\azure\\AzureSiteNet\\PlatziWebSite.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
